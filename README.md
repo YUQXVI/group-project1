@@ -1,9 +1,12 @@
-# group-project1
+# Group-Project1
 The first group project (started during week 6)
 
 David Reidenbaugh, Kyle Lehman, Yuanheng Qu
 
+## Installation
 
-So far the python program asks the user for their name, number in PITT ID, and the year they were born.
-It uses these inputs to print out a customized greeting that welcomes the reader by their PITT ID and determines how many years ago they were born.
+Welcome to use the UserGreeting, you can run it by cloning it to the JupyterLab and open the .ipynb file.
 
+## Running
+
+The UserGreeting.ipynb should be used to return the PITT ID and the age of the user by collecting their full name, email, and birth year.
